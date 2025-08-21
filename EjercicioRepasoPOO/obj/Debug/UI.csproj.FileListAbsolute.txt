@@ -1,0 +1,15 @@
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\bin\Debug\EjercicioRepasoPOO.exe.config
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\bin\Debug\EjercicioRepasoPOO.exe
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\bin\Debug\EjercicioRepasoPOO.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\bin\Debug\BLL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\bin\Debug\DAL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\bin\Debug\BLL.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\bin\Debug\DAL.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\UI.csproj.AssemblyReference.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\EjercicioRepasoPOO.Form1.resources
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\EjercicioRepasoPOO.Properties.Resources.resources
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\UI.csproj.GenerateResource.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\UI.csproj.Up2Date
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\EjercicioRepasoPOO.exe
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\EjercicioRepasoPOO\obj\Debug\EjercicioRepasoPOO.pdb

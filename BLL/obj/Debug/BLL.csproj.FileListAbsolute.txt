@@ -1,0 +1,9 @@
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\bin\Debug\BLL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\bin\Debug\BLL.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\bin\Debug\DAL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\bin\Debug\DAL.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\obj\Debug\BLL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\BLL\obj\Debug\BLL.pdb

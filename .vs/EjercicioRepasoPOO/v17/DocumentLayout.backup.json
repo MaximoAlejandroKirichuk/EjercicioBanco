@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF38EAE-DA94-475E-A5B1-DBB7BD12BCB9}|EjercicioRepasoPOO\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ejerciciorepasopoo\\ejerciciorepasopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF38EAE-DA94-475E-A5B1-DBB7BD12BCB9}|EjercicioRepasoPOO\\UI.csproj|solutionrelative:ejerciciorepasopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF38EAE-DA94-475E-A5B1-DBB7BD12BCB9}|EjercicioRepasoPOO\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ejerciciorepasopoo\\ejerciciorepasopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EF38EAE-DA94-475E-A5B1-DBB7BD12BCB9}|EjercicioRepasoPOO\\UI.csproj|solutionrelative:ejerciciorepasopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\bll\\ioperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|solutionrelative:bll\\ioperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\bll\\bllcuentacorriennte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|solutionrelative:bll\\bllcuentacorriennte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|solutionrelative:bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C921B2E-270A-47A3-B0D7-9566F8F01275}|DAL\\DAL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\dal\\daloperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C921B2E-270A-47A3-B0D7-9566F8F01275}|DAL\\DAL.csproj|solutionrelative:dal\\daloperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\ejerciciorepasopoo\\bll\\blloperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|solutionrelative:bll\\blloperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C921B2E-270A-47A3-B0D7-9566F8F01275}|DAL\\DAL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\dal\\dalcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C921B2E-270A-47A3-B0D7-9566F8F01275}|DAL\\DAL.csproj|solutionrelative:dal\\dalcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\bll\\bllcajaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955FC49B-833D-458E-82C2-A709C80F384B}|BLL\\BLL.csproj|solutionrelative:bll\\bllcajaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C921B2E-270A-47A3-B0D7-9566F8F01275}|DAL\\DAL.csproj|E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\dal\\dalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C921B2E-270A-47A3-B0D7-9566F8F01275}|DAL\\DAL.csproj|solutionrelative:dal\\dalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLLOperaciones.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\BLLOperaciones.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLOperaciones.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\BLLOperaciones.cs",
+              "RelativeToolTip": "BLL\\BLLOperaciones.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:26:28.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DALOperacion.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\DAL\\DALOperacion.cs",
+              "RelativeDocumentMoniker": "DAL\\DALOperacion.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\DAL\\DALOperacion.cs",
+              "RelativeToolTip": "DAL\\DALOperacion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBEAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:37:29.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOperaciones.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\IOperaciones.cs",
+              "RelativeDocumentMoniker": "BLL\\IOperaciones.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\IOperaciones.cs",
+              "RelativeToolTip": "BLL\\IOperaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:09:22.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLLCuentaCorriennte.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\BLLCuentaCorriennte.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLCuentaCorriennte.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\BLLCuentaCorriennte.cs",
+              "RelativeToolTip": "BLL\\BLLCuentaCorriennte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:01:13.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLLCajaAhorro.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\BLLCajaAhorro.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLCajaAhorro.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\BLLCajaAhorro.cs",
+              "RelativeToolTip": "BLL\\BLLCajaAhorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:00:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DALCliente.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\DAL\\DALCliente.cs",
+              "RelativeDocumentMoniker": "DAL\\DALCliente.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\DAL\\DALCliente.cs",
+              "RelativeToolTip": "DAL\\DALCliente.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T18:53:48.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DALCuenta.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\DAL\\DALCuenta.cs",
+              "RelativeDocumentMoniker": "DAL\\DALCuenta.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\DAL\\DALCuenta.cs",
+              "RelativeToolTip": "DAL\\DALCuenta.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAArwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:12:17.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\EjercicioRepasoPOO\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoPOO\\Form1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\EjercicioRepasoPOO\\Form1.cs",
+              "RelativeToolTip": "EjercicioRepasoPOO\\Form1.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAADgv9UAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:15:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\Cliente.cs",
+              "RelativeDocumentMoniker": "BLL\\Cliente.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\BLL\\Cliente.cs",
+              "RelativeToolTip": "BLL\\Cliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:29:09.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3e9b604a-a015-429a-a35d-1ef7b17e3a14",
+        "Display": 1,
+        "X": 1,
+        "Y": 1,
+        "Width": 1364,
+        "Height": 718,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\EjercicioRepasoPOO\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoPOO\\Form1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\EjercicioRepasoPOO\\EjercicioRepasoPOO\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioRepasoPOO\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:22:23.797Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\DAL\bin\Debug\DAL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\DAL\bin\Debug\DAL.pdb
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\DAL\obj\Debug\DAL.dll
+E:\facultad 2025\SegundoCuatrimestre\DAS\EjercicioRepasoPOO\DAL\obj\Debug\DAL.pdb
